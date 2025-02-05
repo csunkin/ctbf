@@ -29,10 +29,9 @@ Time to complete: 10min
 Steps
 
 1.  Student completes the form
-
 2.  The form is sent to Faculty Leader
 
-> [Click here to open this form](https://forms.office.com/r/8fNyCkZ8Ft)
+> [Click here to open this form](https://forms.office.com/Pages/ShareFormPage.aspx?id=IlXxf5Zg3EeJvzibvhPNaLSsHoJTDMtOgwhjBQqFzd5UMk5FNEtWNVY5ODlRQTI5VUtRTVhQTjRaMy4u&sharetoken=2FcGEVH5tmWpSDUIZYoT)
 
 ## Form 2: Internship Application Form {#form2}
 
@@ -41,7 +40,7 @@ Time to complete: 20min
 Steps
 
 1.  The student completes and signs the form.
-2.  The form is sent to Professor **Shabnam Islam** (Program Supervisor).
+2.  The form is sent to Professor **Travis Watkins** (Program Supervisor).
 3.  The Supervisor checks the information and sends it to the faculty lead.
 4.  The Faculty Lead receives the form, signs it, and sends it along with the permission number to the student to enroll.
     1.  **The permission number can be found on page 2 of the signed form**

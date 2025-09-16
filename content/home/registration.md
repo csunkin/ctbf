@@ -21,7 +21,7 @@ advanced:
 
 Participants are required to register before taking part of CTBF. If you are an instructor, [click here](instructors/index.html).
 
-> [Participants can here to open the form](https://forms.office.com/r/ev3K96X5Yq)
+> [Participants can click here to open the form](https://forms.office.com/Pages/ResponsePage.aspx?id=IlXxf5Zg3EeJvzibvhPNaH1Gf_LPkzBNhLbI6f6NeABUNVBTRlQ0UVZZRzgzMk1NWjlIVUJURUJTQS4u)
 
 ## Step 2: Required Paperwork
 
@@ -29,11 +29,11 @@ In addition to completing the Registration Form (Step 1), participants are requi
 
 ### CSUN Waiver of Liability and Hold Harmless Agreement
 
-> [Click here to open the form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhDyrWxZELcNzErun_XeZd1zhdBZeGwpGM1PKZtBlbmLGLEc34Jyueo9fPlovct7zGM*)
+> [Click here to open the form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhC4czPcGSlxYFraow3nsKjxmBf80DGujY3lOzx0FsdXQUf70vrz8_eWiIxNnSBAtbE*)
 
 ### Visual/Audio Image Release Form
 
-> [Click here to open the form](http://adobe.ly/368Zk4k)
+> [Click here to open the form](https://na1.documents.adobe.com/public/esignWidget?wid=CBFCIBAA3AAABLblqZhCDByIOSGOfEo0Jhc6S3DAkvobFY5zY-hhi4ApFshZ5_IKKKwKQTNrL9TekHohqzcs*)
 
 For any questions or more information, please [contact us](#contact).
 

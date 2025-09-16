@@ -10,7 +10,7 @@ advanced:
 weight: 20
 ---
 
-## Spring 2025 Schedule
+## Fall 2025 Schedule
 
 ### In-person sessions ONLY
 
@@ -24,7 +24,4 @@ Conducted at Redwood Hall 200 - [Click here for directions](https://3dmap.csun.e
 
 ## Important Dates
 
--  Pre-test Fitness assessments 2/10-2/13
--  Program start: 2/19; 2/20
--  Spring break week of 3/17
--  Post test assessments/final week of program 4/30; 5/1
+- September 25th – November 20th

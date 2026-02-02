@@ -31,7 +31,7 @@ Steps
 1.  Student completes the form
 2.  The form is sent to Faculty Leader
 
-> [Click here to open this form](https://forms.office.com/Pages/ShareFormPage.aspx?id=IlXxf5Zg3EeJvzibvhPNaLSsHoJTDMtOgwhjBQqFzd5UMk5FNEtWNVY5ODlRQTI5VUtRTVhQTjRaMy4u&sharetoken=2FcGEVH5tmWpSDUIZYoT)
+> [Click here to open this form](https://forms.office.com/r/m9MKHkemmG)
 
 ## Form 2: Internship Application Form {#form2}
 

@@ -1,7 +1,9 @@
-# IDEs
+# Local tooling
 .idea/
+.DS_Store
+.RData
+.Rhistory
+.Rproj.user/
 
-# Hugo
-/resources/
-public/
-.Rproj.user
+# Local preview and editor files
+.vscode/

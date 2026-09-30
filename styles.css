@@ -154,7 +154,7 @@ h2 {
 
 h1 {
   max-width: 9ch;
-  font-size: clamp(4.5rem, 6vw, 7.5rem);
+  font-size: clamp(4.25rem, 5.5vw, 7rem);
 }
 
 h2 {
@@ -389,8 +389,14 @@ h3 {
 }
 
 .team {
+  grid-template-columns: minmax(18rem, 0.9fr) minmax(28rem, 1.1fr);
+  gap: clamp(2.5rem, 5vw, 6rem);
   color: white;
   background: var(--ink);
+}
+
+.team h2 {
+  font-size: clamp(3.5rem, 4.6vw, 5.5rem);
 }
 
 .team .eyebrow,
@@ -573,6 +579,10 @@ footer p {
   }
 
   .section {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .team {
     grid-template-columns: minmax(0, 1fr);
   }
 

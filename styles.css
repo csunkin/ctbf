@@ -72,8 +72,8 @@ summary:focus-visible {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 5.5rem;
-  padding: 0.75rem var(--page-padding);
+  min-height: 5rem;
+  padding: 0.5rem var(--page-padding);
   border-bottom: 1px solid var(--line);
   background: rgba(255, 255, 255, 0.86);
   -webkit-backdrop-filter: blur(14px) saturate(140%);
@@ -122,7 +122,7 @@ nav a {
 .hero {
   display: grid;
   grid-template-columns: minmax(20rem, 0.85fr) minmax(32rem, 1.25fr);
-  min-height: calc(100svh - 5.5rem);
+  min-height: calc(100svh - 5rem);
   background: var(--white);
 }
 
@@ -282,7 +282,7 @@ h3 {
   grid-template-columns: minmax(18rem, 0.8fr) minmax(24rem, 1.2fr);
   gap: clamp(3rem, 8vw, 9rem);
   padding: var(--section-space) var(--page-padding);
-  scroll-margin-top: 6.5rem;
+  scroll-margin-top: 5.75rem;
 }
 
 .schedule {
@@ -551,7 +551,7 @@ footer p {
   }
 
   .section {
-    scroll-margin-top: 9rem;
+    scroll-margin-top: 8.5rem;
   }
 
   nav {
